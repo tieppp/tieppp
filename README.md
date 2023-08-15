@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @tieppp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🥋 one member of the [@phamxuantiep](https://www.github.com/phamxuantiep) Teamwork, learning at FPT Uni. Crafting good thing, fight for good future, prepare knowledge for self improvement.
+- 👀 Team được phát triển và hoạt động chính thức tại địa chỉ website, Được cung cấp tới bạn bởi tiep.au
+- 🌱 Địa chỉ email hỗ trợ tiep@tiep.au
+- 💞️ Website https://tiep.au
+- ✨ Blog https://yo.fan/tiep
 
-<!---
-tieppp/tieppp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Đặt người tiêu dùng lên hàng đầu. Đổ mồ hôi cho những chi tiết nhỏ. Săn lùng những ƯU ĐÃI tốt.
+
+Bất chấp vị trí hiện tại của tôi, tôi luôn tò mò về những thách thức mới thông qua sự hợp tác và các cơ hội tự do.
+
